@@ -1,5 +1,3 @@
-Okay, here are the 30 problems adapted into a Go-themed questionnaire. I've changed JavaScript concepts and syntax (like `Array`, `Object`, `function`, `console.log`) to their Go equivalents (like `slice`, `struct`, `map`, `func`, `fmt.Println`).
-
 ---
 
 **Go Fundamentals Questionnaire**
